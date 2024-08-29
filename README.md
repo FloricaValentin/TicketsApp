@@ -14,3 +14,5 @@ Notifications: Receive real-time updates on events based of your town from profi
 Profile Screen: User can edit his personal infos like town , bio , SocialMediaLinks and change his password and profile picture
 
 Socket.IO Integration: Real-time notifications and updates.
+
+The routes are configured for web now (http://localhost:5000) if you want to change for android emulator use this on the endpoints (http://10.0.2.2:5000).
